@@ -23,14 +23,21 @@
 #### Corrección del diagrama
 
 ![](https://github.com/0bamium/Correcci-n-Diagramas-Patrones-de-Dise-o/blob/de6e188b1cb53b15de100d3ad8d8b5060774622b/imagenes/diagramadeclases.jpeg)
+- la clase reserva esta fuera del diagrama sin actuar con nada
+- el administrador tiene asociado el sistema de reservas
+- la asociacion del sistema de reservas hacia el usuario esta implementada del lado contrario
 
 #### Justificación de errores
+
 
 ### Diagrama de Implementación
 
 #### Corrección del diagrama
 
 ![](https://github.com/0bamium/Correcci-n-Diagramas-Patrones-de-Dise-o/blob/de6e188b1cb53b15de100d3ad8d8b5060774622b/imagenes/diagrama%20de%20implementacion.jpeg)
+- modulo historial debe estar enlazado con el sistema de gestion de reservas, no directamente a la base de datos
+- la asociacion del gestor de notificaciones esta implementado del lado contrario
+- la API del sistema academico externo tendria que estar dentro del sistema de gestion de reservas y no como un externo
 
 #### Justificación de errores
 
