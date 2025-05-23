@@ -22,13 +22,15 @@
 
 #### Corrección del diagrama
 
-![]()
+![](https://github.com/0bamium/Correcci-n-Diagramas-Patrones-de-Dise-o/blob/de6e188b1cb53b15de100d3ad8d8b5060774622b/imagenes/diagramadeclases.jpeg)
 
 #### Justificación de errores
 
 ### Diagrama de Implementación
 
 #### Corrección del diagrama
+
+![](https://github.com/0bamium/Correcci-n-Diagramas-Patrones-de-Dise-o/blob/de6e188b1cb53b15de100d3ad8d8b5060774622b/imagenes/diagrama%20de%20implementacion.jpeg)
 
 #### Justificación de errores
 
