@@ -1,1 +1,4 @@
-# Correcci-n-Diagramas-Patrones-de-Dise-o
+## Estudiantes
+- David Antonio Frías Zuñiga
+- José Raúl Méndez Aqueveque
+- Sección: ´2´
